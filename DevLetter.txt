@@ -1,0 +1,15 @@
+this list is for version information, extra comments, server support, and version patchnotes
+
+server support: Currently there is no server support provided by myself, while this project is server-side javascript, I do not currently have
+a way to host HPWS servers for the general public. in addition to this simple reality the fact that, because this is so early in development,
+it is almost pointless to host WSO & HPB because there is little to no functionality givin by doing that, so I have decided to make this git so 
+others can modify my code for their own uses.
+
+current supported version: none
+
+version feture list
+- WSO-0.1 - can listen to chat for messages but cannot respond
+- WSO-0.2 - can also respond now, as well as the fibonacci sphere command
+- WSO-0.3(uncompleted) - new code format for simpler, more comprehensible code(aka not one big spagetti file but insted multiple files)
+
+-HPB-0.1(uncompleted - can listen to discord messages, cannot respond
